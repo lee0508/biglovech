@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2018년 April 27일 3:05 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.34
+WORDPRESS:	4.9.5
+PHP INFO:	7.0.0p1 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 58MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from /usr/bin/mysqldump 
+TABLES: total:38 | filtered:0 | create:38 
+SQL CREATED: 20180427_ed81b0ec82aceb9e91eab590ed9a8c_da62d246661b00103881180427030516_database.sql 
+SQL FILE SIZE: 17.04MB (17872328) 
+SQL FILE TIME: 2018-04-27 03:05:29 
+SQL RUNTIME: 0.17 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /ymhpro01/www 
+ARCHIVE FILE: 20180427_ed81b0ec82aceb9e91eab590ed9a8c_da62d246661b00103881180427030516_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	115.46MB 
+STATS:	Dirs 860 | Files 6,160 
+SQL ADDED: 20180427_ed81b0ec82aceb9e91eab590ed9a8c_da62d246661b00103881180427030516_database.sql 
+Items archived [1860] flushing response. 
+Items archived [2861] flushing response. 
+Items archived [3862] flushing response. 
+Items archived [4863] flushing response. 
+Items archived [5864] flushing response. 
+Items archived [6865] flushing response. 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7020
+    [filename] => /ymhpro01/www/wp-snapshots/tmp/20180427_ed81b0ec82aceb9e91eab590ed9a8c_da62d246661b00103881180427030516_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 58.22MB 
+ARCHIVE RUNTIME: 6.24 sec. 
+MEMORY STACK: 58MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/ymhpro01/www/wp-snapshots/tmp/20180427_ed81b0ec82aceb9e91eab590ed9a8c_da62d246661b00103881180427030516_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 17.04MB 
+Installer File: 445.26KB 
+Archive File: 58.22MB  
+
+********************************************************************************
+RECORD ID:[7]
+TOTAL PROCESS RUNTIME: 6.64 sec.
+PEAK PHP MEMORY USED: 60MB
+DONE PROCESSING => 20180427_ed81b0ec82aceb9e91eab590ed9a8c 2018년 April 27일 3:05 am
+ 

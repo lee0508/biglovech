@@ -1,0 +1,31 @@
+/* Themify Customize Styling */
+body[class*="themify"] #site-logo {	
+	color: #fcf9f9; 
+}
+#site-description {	
+	color: #faf7f7; 
+}
+#main-nav {	
+	background-color: transparent; 
+}
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a {	
+	background-color: transparent; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	background-color: transparent; 
+}
+#main-nav-wrap #main-nav li:not(.themify-widget-menu) > ul, #main-nav .has-mega-sub-menu .mega-sub-menu, #main-nav .has-mega-column > .sub-menu {	
+	background-color: transparent; 
+}
+#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, #main-nav .has-mega-column > .sub-menu a {	
+	background-color: transparent; 
+}
